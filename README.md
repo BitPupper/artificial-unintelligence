@@ -23,11 +23,14 @@ I plan to keep working on this, though I may end up re-writing the code entirely
 ### Current flaws of the project
 1. It fails the initial objective: the AI agents don't really have any semblance of intentionality to their actions. It only takes into account their current emotion when performing an action, and whether that action has been rewarded before. 
 2. It offers no gameplay/interaction on the player's side. Pretty boring after 1 minute.
-  a. The main reason for this is probably because the agent's actions and range of emotions are too simple to be interesting.
-  b. Another reason is that the only thing the player does is press space.
+    a. The main reason for this is probably because the agent's actions and range of emotions are too simple to be interesting.
+    b. Another reason is that the only thing the player does is press space.
 
 ### Potential solutions (to corresponding numbered flaws above)
 1. With my current resources and knowledge, I can't really make an AI system that can strategize through a social interaction with infinite possibilities. I was imagining putting two AIs in a little box and watching them squabble freely, hoping that they would suddenly do something smart, but that's not going to happen anytime soon. I should accept that and change my approach: make it a controlled simulation where the results are more predictable, like those educational simulations from [Nicky Case](https://ncase.me/) (idea credit goes to Harsh Deep). Now the big idea is to **Pit AI agents that are trained/coded differently against each other**, which simulates a situation where people from different cultures, norms, and perspectives all try to get along. This is a universal problem! It would be useful to be able to visualize it in a simplified manner using a handful of single brain-celled AIs, hunger games style!
+
 2a. Add different emotions and actions depending on how the agents were trained! It's like knowing different languages giving you access to expressing unique emotions and thoughts.
+
 2b. The player gets their own character amoung the AI agents, they get to choose what actions and emotions they have access to!
+
 - Maybe add a gossip system?
