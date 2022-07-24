@@ -15,7 +15,7 @@ Two of these agents are pitted against each other in the game, and by changing t
 I'd be delighted to hear about any ideas anyone has! Ways to make it more complex, or ways to make it more simple... Feel free to complain abaout my bad programming habits, too!
 
 ## How to use
-It works best if all the files are downloaded to the same directory and then run. The fallback plan if the code raises an error is this Repl (make sure to fullscreen it, otherwise screen gets cut off): [Link to repl](https://replit.com/@BitPupper/Socializing-Simulator)
+It works best if all the files are downloaded to the same directory and then run main.py. The fallback plan if the code raises an error is this Repl (make sure to fullscreen it, otherwise screen gets cut off): [Link to repl](https://replit.com/@BitPupper/Socializing-Simulator)
 
 ## Reflections / Plans for the future
 I plan to keep working on this, though I may end up re-writing the code entirely. 
